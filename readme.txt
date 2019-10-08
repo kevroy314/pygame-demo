@@ -10,3 +10,4 @@ This will set up the environment so you can then run them demo via:
 
   python pygame-demo.py
 
+![Demo](https://github.com/kevroy314/pygame-demo/blob/master/demo.gif)
