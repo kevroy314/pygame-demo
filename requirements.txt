@@ -1,1 +1,1 @@
-pygame
+pygamenumpy==1.17.2
